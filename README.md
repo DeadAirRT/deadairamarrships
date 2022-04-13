@@ -3,11 +3,11 @@
 ## Adds 7 L ships
 - Abaddon
 - Armageddon
-- Avatar
 - Harbinger
 - Legion
 - Omen
 - Oracle
+- Providence
 ## Adds 2 XL ships
 - Archon
 - Avatar
