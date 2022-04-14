@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+
+<page id="4816391" title="DeadAir T Files" descr="names used in DeadAir Mods" voice="yes">
+<!-- 3323247 == deadair --><!--48163x69 == 3323247 since there is a character limit --><!--48163##-->
+<!-- 100 ship name -->
+<!-- 200 ship description -->
+<!-- 300 ishield -->
+ <t id="100">Omen</t>
+ <t id="200">The Omen is a stereotypical example of the Amarrian School of thinking when it comes to ship design: thick armor and hard hitting lasers.</t>
+ <t id="300">IG L - Omen Internal Generator</t>
+ <t id="101">Abaddon</t>
+ <t id="201">The Abaddon class ship is a celestial tool of destruction. It is designed to enter combat from the outset, targeting enemies at range and firing salvo after salvo at them, and to remain intact on the battlefield until every heretic in sight has been torn to shreds.</t>
+ <t id="301">IG L - Abaddon Internal Generator</t>
+ <t id="102">Providence</t>
+ <t id="202">Even though characteristically last in the race to create a working Compact of new technology, the Empire's engineers spared no effort in bringing the Providence into the world. While the massive potential for profit from the capsuleer market is said to have been what eventually made the stolid Empire decide to involve themselves in the freighter business, their brainchild is by no means the runt of the litter; the Providence is one of the sturdiest freighters out there.</t>
+ <t id="302">IG L - Providence Internal Generator</t>
+ <t id="103">Armageddon</t>
+ <t id="203">The mighty Armageddon class is one of the enduring warhorses of the Amarr Empire. Once a juggernaut that steamrolled its way into battle, it has now taken on a more stately and calculated approach.</t>
+ <t id="303">IG L - Armageddon Internal Generator</t>
+ <t id="104">Oracle</t>
+ <t id="204">In YC 113 Empress Jamyl Sarum I challenged Amarr ship manufacturers to build a new battlecruiser that would break the stalemate of the Empyrean War. Deviating from the doctrine of brute-force and heavy armor, the engineers at Viziam took inspiration from Caldari history.\n\During the Gallente-Caldari War, the Caldari developed light, maneuverable ships to counter the slow ships of the Gallente Federation. This philosophy, along with a cutting-edge powertrain and ultra-light alloy armor plating, led to the Oracle.\n\The Empire immediately ordered the ship into production. The Empress personally congratulated Viziam Chief Researcher Parud Vakirokiki, calling the ship "a work of Divine Grace for the Empire, and retribution to our enemies."</t>
+ <t id="304">IG L - Oracle Internal Generator</t>
+ <t id="105">Legion</t>
+ <t id="205">Revelation burrows through the material world, devours creation's soil, digests the thoughtless void, and produces significance with God's grace. From emptiness comes meaning, essence from existence, soul from matter.\n\Is God through the wormhole? Did God grant us this boon, this new technology, a revelation from on high? These weapons are God's new prophecy, domain, and blessing. Let us use God's grace and prepare New Eden. We are God's soldiers, weapons, glory. Our people are God's army. Together, we are the legion.\n\The Heresies of Hinketsu</t>
+ <t id="305">IG L - Legion Internal Generator</t>
+ <t id="106">Archon</t>
+ <t id="206">The Archon was commissioned by the Amarr Navy to act as a personnel and fighter carrier. The order to create the ship came as part of a unilateral initative issued by Navy Command in the wake of Emperor Kor-Azor's assassination. Sporting the latest in fighter command interfacing technology and possessing characteristically strong defenses, the Archon is a powerful aid in any engagement.</t>
+ <t id="306">IG XL - Archon Internal Generator</t>
+ <t id="107">Avatar</t>
+ <t id="207">Casting his sight on his realm, the Lord witnessed\n\The cascade of evil, the torrents of war.\n\Burning with wrath, He stepped\n\down from the Heavens\n\To judge the unworthy,\n\To redeem the pure.\n\-The Scriptures, Revelation Verses 2:12</t>
+ <t id="307">IG XL - Avatar Internal Generator</t>
+ <t id="108">Harbinger</t>
+ <t id="208">Right from its very appearance on a battlefield, the Harbinger proclaims its status as a massive weapon, a laser burning through the heart of the ungodly. Everything about it exhibits this focused intent, from the lights on its nose and wings that root out the infidels, to the large number of turreted high slots that serve to destroy them. Should any heathens be left alive after the Harbinger's initial assault, its drones will take care of them.</t>
+ <t id="308">IG L - Harbinger Internal Generator</t>
+</page>
+</language>

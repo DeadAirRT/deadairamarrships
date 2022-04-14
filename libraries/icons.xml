@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE icons SYSTEM "icons.dtd" >
+<icons>
+<icon name="ship_dam_*" texture="extensions\deadairamarrships\assets\fx\gui\textures\ships\*.tga" height="256" width="256"/>
+<icon name="upgrade_*" texture="extensions\deadairamarrships\assets\fx\gui\textures\upgrades\*" height="256" width="256"/>
+</icons>

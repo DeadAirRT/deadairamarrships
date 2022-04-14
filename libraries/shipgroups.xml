@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+<replace sel="//group[@name='dam_destroyer_l']">
+		<group name="dam_destroyer_l">
+			<select macro="ship_dam_l_abaddon_macro" weight="100"/>
+			<select macro="ship_dam_l_armageddon_macro" weight="100"/>
+		</group>
+</replace>
+<replace sel="//group[@name='dam_escort_l']">
+		<group name="dam_escort_l">
+			<select macro="ship_dam_l_omen_macro" weight="100"/>
+			<select macro="ship_dam_l_oracle_macro" weight="100"/>
+			<select macro="ship_dam_l_legion_macro" weight="100"/>
+			<select macro="ship_dam_l_harbinger_macro" weight="100"/>
+		</group>
+</replace>
+<replace sel="//group[@name='dam_trader_container_l']">
+		<group name="dam_trader_container_l">
+			<select macro="ship_dam_l_providence_macro" weight="100"/>
+		</group>
+</replace>
+<replace sel="//group[@name='dam_carrier_xl']">
+		<group name="dam_carrier_xl">
+			<select macro="ship_dam_xl_archon_macro" weight="100"/>
+		</group>
+</replace>
+<add sel="//groups">
+		<group name="dam_battleship_xl">
+			<select macro="ship_dam_xl_avatar_macro" weight="100"/>
+		</group>
+</add>
+</diff>
