@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <entry name="ship_dam_l_omen" value="extensions\deadairamarrships\assets\units\size_l\ship_dam_l_omen" />
+  <entry name="ship_dam_l_abaddon" value="extensions\deadairamarrships\assets\units\size_l\ship_dam_l_abaddon" />
+  <entry name="ship_dam_l_providence" value="extensions\deadairamarrships\assets\units\size_l\ship_dam_l_providence" />
+  <entry name="ship_dam_l_armageddon" value="extensions\deadairamarrships\assets\units\size_l\ship_dam_l_armageddon" />
+  <entry name="ship_dam_l_oracle" value="extensions\deadairamarrships\assets\units\size_l\ship_dam_l_oracle" />
+  <entry name="ship_dam_l_legion" value="extensions\deadairamarrships\assets\units\size_l\ship_dam_l_legion" />
+  <entry name="ship_dam_l_harbinger" value="extensions\deadairamarrships\assets\units\size_l\ship_dam_l_harbinger" />
+  <entry name="ship_dam_xl_archon" value="extensions\deadairamarrships\assets\units\size_xl\ship_dam_xl_archon" />
+  <entry name="ship_dam_xl_avatar" value="extensions\deadairamarrships\assets\units\size_xl\ship_dam_xl_avatar" />
+  <entry name="ishield_dam_l_omen" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_l_omen" />
+  <entry name="ishield_dam_l_abaddon" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_l_abaddon" />
+  <entry name="ishield_dam_l_providence" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_l_providence" />
+  <entry name="ishield_dam_l_armageddon" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_l_armageddon" />
+  <entry name="ishield_dam_l_oracle" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_l_oracle" />
+  <entry name="ishield_dam_l_legion" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_l_legion" />
+  <entry name="ishield_dam_l_harbinger" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_l_harbinger" />
+  <entry name="ishield_dam_xl_archon" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_xl_archon" />
+  <entry name="ishield_dam_xl_avatar" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_xl_avatar" />
+</index>

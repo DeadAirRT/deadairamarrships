@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<macros>
+	<macro name="ishield_dam_l_providence_macro" class="shieldgenerator">
+		<component ref="ishield_dam_l_providence"/>
+		<properties>
+			<identification name="{4816391,302}"/>
+			<recharge max="13333" rate="914" delay="0"/>
+			<hull integrated="1"/>
+		</properties>
+	</macro>
+</macros>

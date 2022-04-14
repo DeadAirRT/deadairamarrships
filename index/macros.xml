@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <entry name="ship_dam_l_omen_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\ship_dam_l_omen_macro" />
+  <entry name="storage_dam_l_omen_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\storage_dam_l_omen_macro" />
+  <entry name="ship_dam_l_harbinger_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\ship_dam_l_harbinger_macro" />
+  <entry name="storage_dam_l_harbinger_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\storage_dam_l_harbinger_macro" />
+  <entry name="ship_dam_l_abaddon_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\ship_dam_l_abaddon_macro" />
+  <entry name="storage_dam_l_abaddon_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\storage_dam_l_abaddon_macro" />
+  <entry name="ship_dam_l_providence_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\ship_dam_l_providence_macro" />
+  <entry name="storage_dam_l_providence_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\storage_dam_l_providence_macro" />
+  <entry name="ship_dam_l_armageddon_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\ship_dam_l_armageddon_macro" />
+  <entry name="storage_dam_l_armageddon_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\storage_dam_l_armageddon_macro" />
+  <entry name="ship_dam_l_oracle_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\ship_dam_l_oracle_macro" />
+  <entry name="storage_dam_l_oracle_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\storage_dam_l_oracle_macro" />
+  <entry name="ishield_dam_l_omen_macro" value="extensions\deadairamarrships\assets\props\surfaceelements\macros\ishield_dam_l_omen_macro" />
+  <entry name="ishield_dam_l_harbinger_macro" value="extensions\deadairamarrships\assets\props\surfaceelements\macros\ishield_dam_l_harbinger_macro" />
+  <entry name="ishield_dam_l_abaddon_macro" value="extensions\deadairamarrships\assets\props\surfaceelements\macros\ishield_dam_l_abaddon_macro" />
+  <entry name="ishield_dam_l_providence_macro" value="extensions\deadairamarrships\assets\props\surfaceelements\macros\ishield_dam_l_providence_macro" />
+  <entry name="ishield_dam_l_armageddon_macro" value="extensions\deadairamarrships\assets\props\surfaceelements\macros\ishield_dam_l_armageddon_macro" />
+  <entry name="ishield_dam_l_oracle_macro" value="extensions\deadairamarrships\assets\props\surfaceelements\macros\ishield_dam_l_oracle_macro" />
+  <entry name="ship_dam_l_legion_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\ship_dam_l_legion_macro" />
+  <entry name="storage_dam_l_legion_macro" value="extensions\deadairamarrships\assets\units\size_l\macros\storage_dam_l_legion_macro" />
+  <entry name="ishield_dam_l_legion_macro" value="extensions\deadairamarrships\assets\props\surfaceelements\macros\ishield_dam_l_legion_macro" />
+  <entry name="ship_dam_xl_archon_macro" value="extensions\deadairamarrships\assets\units\size_xl\macros\ship_dam_xl_archon_macro" />
+  <entry name="storage_dam_xl_archon_macro" value="extensions\deadairamarrships\assets\units\size_xl\macros\storage_dam_xl_archon_macro" />
+  <entry name="ishield_dam_xl_archon_macro" value="extensions\deadairamarrships\assets\props\surfaceelements\macros\ishield_dam_xl_archon_macro" />
+  <entry name="ship_dam_xl_avatar_macro" value="extensions\deadairamarrships\assets\units\size_xl\macros\ship_dam_xl_avatar_macro" />
+  <entry name="storage_dam_xl_avatar_macro" value="extensions\deadairamarrships\assets\units\size_xl\macros\storage_dam_xl_avatar_macro" />
+  <entry name="ishield_dam_xl_avatar_macro" value="extensions\deadairamarrships\assets\props\surfaceelements\macros\ishield_dam_xl_avatar_macro" />
+</index>
