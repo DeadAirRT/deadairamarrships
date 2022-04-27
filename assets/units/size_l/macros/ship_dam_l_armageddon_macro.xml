@@ -21,8 +21,8 @@
 			<purpose primary="fight"/>
 			<people capacity="66"/>
 			<physics mass="88.05">
-				<inertia pitch="106.18" yaw="150.38" roll="107.47"/>
-				<drag forward="48.03" reverse="203.31" horizontal="79.36" vertical="79.36" pitch="106.18" yaw="150.38" roll="107.47"/>
+				<inertia pitch="424.72" yaw="601.52" roll="429.89"/>
+				<drag forward="48.03" reverse="203.31" horizontal="158.71" vertical="158.71" pitch="424.72" yaw="601.52" roll="429.89"/>
 			</physics>
 			<thruster tags="large"/>
 			<ship type="battleship"/>

@@ -11,7 +11,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\omen\omen_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -42,7 +42,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\abaddon\abaddon_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -73,7 +73,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\providence\providenceA_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -102,7 +102,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\providence\providenceB_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -133,7 +133,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\armageddon\armageddon_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -164,7 +164,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\oracle\oracle_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -195,7 +195,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\legion\legionA_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -224,7 +224,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\legion\legionB_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -253,7 +253,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\legion\legionC_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -282,7 +282,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\legion\legionD_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -313,7 +313,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\archon\archon_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -344,7 +344,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\avatar\avatarA_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -373,7 +373,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\avatar\avatarB_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -402,7 +402,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\avatar\avatarC_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -433,7 +433,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\harbinger\harbinger_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />

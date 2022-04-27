@@ -421,37 +421,37 @@
 					<quaternion qw="-0.5912777715230101" qx="-0.0264852056340426" qy="-0.007114658022092014" qz="0.8060015585757475"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_1" tags="countermeasures">
+			<connection name="con_countermeasures_counter_1" tags="countermeasures">
 				<offset>
 					<position x="-178.2822" y="-127.55149999999999" z="-2145.7920000000004"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_2" tags="countermeasures">
+			<connection name="con_countermeasures_counter_2" tags="countermeasures">
 				<offset>
 					<position x="178.2819" y="-127.55149999999999" z="-2145.7920000000004"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_3" tags="countermeasures">
+			<connection name="con_countermeasures_counter_3" tags="countermeasures">
 				<offset>
 					<position x="-96.8859" y="226.8877" z="-2122.5598999999997"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_4" tags="countermeasures">
+			<connection name="con_countermeasures_counter_4" tags="countermeasures">
 				<offset>
 					<position x="96.88560000000001" y="226.8877" z="-2122.5598999999997"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_5" tags="countermeasures">
+			<connection name="con_countermeasures_counter_5" tags="countermeasures">
 				<offset>
 					<position x="-9.999999999999999e-05" y="-317.3218" z="-1226.298"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_6" tags="countermeasures">
+			<connection name="con_countermeasures_counter_6" tags="countermeasures">
 				<offset>
 					<position x="-9.999999999999999e-05" y="-344.6189" z="-851.1182"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_7" tags="countermeasures">
+			<connection name="con_countermeasures_counter_7" tags="countermeasures">
 				<offset>
 					<position x="-9.999999999999999e-05" y="-847.9981" z="1006.3679000000001"/>
 				</offset>

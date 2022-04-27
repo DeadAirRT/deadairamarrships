@@ -21,8 +21,8 @@
 			<purpose primary="trade"/>
 			<people capacity="63"/>
 			<physics mass="660.38">
-				<inertia pitch="212.36" yaw="300.76" roll="214.95"/>
-				<drag forward="229.7" reverse="972.35" horizontal="99.2" vertical="99.2" pitch="212.36" yaw="300.76" roll="214.95"/>
+				<inertia pitch="424.72" yaw="601.52" roll="429.89"/>
+				<drag forward="229.7" reverse="972.35" horizontal="198.39" vertical="198.39" pitch="424.72" yaw="601.52" roll="429.89"/>
 			</physics>
 			<thruster tags="large"/>
 			<ship type="freighter"/>

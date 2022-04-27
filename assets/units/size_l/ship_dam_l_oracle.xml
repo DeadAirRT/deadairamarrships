@@ -307,43 +307,43 @@
 					<quaternion qw="-0.4060155521824483" qx="0.9138661671087193" qy="-0.0" qz="0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_1" tags="countermeasures">
+			<connection name="con_countermeasures_counter_1" tags="countermeasures">
 				<offset>
 					<position x="-43.8055" y="104.81799999999998" z="-42.7677"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_2" tags="countermeasures">
+			<connection name="con_countermeasures_counter_2" tags="countermeasures">
 				<offset>
 					<position x="43.8055" y="104.81799999999998" z="-42.7677"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_3" tags="countermeasures">
+			<connection name="con_countermeasures_counter_3" tags="countermeasures">
 				<offset>
 					<position x="-18.881500000000003" y="204.70999999999998" z="-73.7787"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_4" tags="countermeasures">
+			<connection name="con_countermeasures_counter_4" tags="countermeasures">
 				<offset>
 					<position x="18.881500000000003" y="204.70999999999998" z="-73.7787"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_5" tags="countermeasures">
+			<connection name="con_countermeasures_counter_5" tags="countermeasures">
 				<offset>
 					<position x="-16.534299999999998" y="-175.545" z="11.4686"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_6" tags="countermeasures">
+			<connection name="con_countermeasures_counter_6" tags="countermeasures">
 				<offset>
 					<position x="16.534299999999998" y="-175.545" z="11.4686"/>
 				</offset>
 			</connection>
-			<connection name="con_l_weapon_1" tags="weapon large standard weapon_dam_l">
+			<connection name="con_l_weapon_1" tags="weapon large standard weapon_dam_l symmetry symmetry_left">
 				<offset>
 					<position x="-35.6178" y="-18.378700000000002" z="29.485099999999996"/>
 					<quaternion qw="0.7071068" qx="0" qy="0" qz="0.7071068"/>
 				</offset>
 			</connection>
-			<connection name="con_l_weapon_2" tags="weapon large standard weapon_dam_l">
+			<connection name="con_l_weapon_2" tags="weapon large standard weapon_dam_l symmetry symmetry_right">
 				<offset>
 					<position x="35.6178" y="-18.378700000000002" z="29.485099999999996"/>
 					<quaternion qw="0.7071068" qx="0" qy="0" qz="-0.7071068"/>

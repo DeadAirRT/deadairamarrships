@@ -121,8 +121,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dam_l_abaddon" name="{4816391,301}" description="{4816391,301}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -132,8 +136,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dam_l_providence" name="{4816391,302}" description="{4816391,302}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -143,8 +151,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dam_l_armageddon" name="{4816391,303}" description="{4816391,303}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -154,8 +166,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dam_l_oracle" name="{4816391,304}" description="{4816391,304}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -165,8 +181,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dam_l_legion" name="{4816391,305}" description="{4816391,305}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -176,8 +196,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dam_l_harbinger" name="{4816391,308}" description="{4816391,308}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -187,8 +211,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dam_xl_archon" name="{4816391,306}" description="{4816391,306}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -198,8 +226,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dam_xl_avatar" name="{4816391,307}" description="{4816391,307}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -209,8 +241,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 	</add>
 </diff>
