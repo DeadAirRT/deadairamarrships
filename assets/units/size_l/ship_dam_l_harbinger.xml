@@ -75,8 +75,8 @@
 				<parts>
 					<part name="part_main" wreck="part_main_wreck">
 						<size>
-							<max x="107.953" y="39.3749" z="196.742"/>
-							<center x="-0.00269318" y="7.61646" z="17.8233"/>
+							<max x="108.061" y="39.4143" z="196.939" />
+							<center x="-0.00315094" y="7.62654" z="17.8058" />
 						</size>
 						<lods>
 							<lod index="0">
