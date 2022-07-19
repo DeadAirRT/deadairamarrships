@@ -27,4 +27,8 @@
   <entry name="ship_dam_xl_avatar_macro" value="extensions\deadairamarrships\assets\units\size_xl\macros\ship_dam_xl_avatar_macro" />
   <entry name="storage_dam_xl_avatar_macro" value="extensions\deadairamarrships\assets\units\size_xl\macros\storage_dam_xl_avatar_macro" />
   <entry name="ishield_dam_xl_avatar_macro" value="extensions\deadairamarrships\assets\props\surfaceelements\macros\ishield_dam_xl_avatar_macro" />
+  
+  <entry name="ship_dam_m_coercer_macro" value="extensions\deadairamarrships\assets\units\size_m\macros\ship_dam_m_coercer_macro" />
+  <entry name="storage_dam_m_coercer_macro" value="extensions\deadairamarrships\assets\units\size_m\macros\storage_dam_m_coercer_macro" />
+  <entry name="ishield_dam_m_coercer_macro" value="extensions\deadairamarrships\assets\props\surfaceelements\macros\ishield_dam_m_coercer_macro" />
 </index>

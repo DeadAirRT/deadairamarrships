@@ -454,5 +454,36 @@
       </properties>
     </material>
   </collection>
+  <collection name="coercer">
+    <material name="evemata" shader="P1_complex_surface.fx" blendmode="NONE" preview="none">
+      <properties>
+		<property type="BitMap" name="smooth_map" value="extensions\deadairamarrships\assets\textures\coercer\coercer_smoothness" />
+        <property type="BitMap" name="metal_map" value="extensions\deadairamarrships\assets\textures\coercer\coercer_metallic" />
+        <property type="BitMap" name="diffuse_map" value="extensions\deadairamarrships\assets\textures\coercer\coercer_diffuse" />
+        <property type="BitMap" name="normal_map" value="extensions\deadairamarrships\assets\textures\coercer\coercer_normal" />
+        <property type="BitMap" name="color_glow_map" value="extensions\deadairamarrships\assets\textures\coercer\coercer_emissive" />
+        <property type="Float" name="diffuseStr" value="1.0" />
+        <property type="Float" name="normalStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
+        <property type="Float" name="color_dirtStr" value="1.0" />
+        <property type="Float" name="environmentStr" value="0.5" />
+        <property type="Float" name="Smoothness" value="1.0" />
+        <property type="Float" name="Metallness" value="1.0" />
+        <property type="BitMap" name="diffuse_paint_map" value="assets\textures\generic\generic_p1_dirt_03_diff" />
+        <property type="BitMap" name="color_dirt_map" value="assets\textures\generic\generic_p1_dirt_02_diff" />
+        <property type="BitMap" name="diffuse_detail_map" value="assets\textures\generic\generic_p1_detail_02_diff" />
+        <property type="BitMap" name="normal_detail_map" value="assets\textures\generic\generic_p1_detail_01_normal" />
+        <property type="Float" name="normal_detail_tiling" value="10.0" />
+        <property type="Float" name="normal_detail_tiling_v" value="5.0" />
+        <property type="Float" name="normal_detailStr" value="0.05" />
+        <property type="Float" name="color_dirt_tiling" value="5.0" />
+        <property type="Float" name="color_dirt_tiling_v" value="10.0" />
+        <property type="Float" name="diffuse_detail_tiling" value="10.0" />
+        <property type="Float" name="diffuse_detail_tiling_v" value="5.0" />
+        <property type="Float" name="diffuse_detailStr" value="1.0" />
+        <property type="Float" name="diffuse_paintStr" value="1.0" />
+      </properties>
+    </material>
+  </collection>
 </add>
 </diff>

@@ -18,4 +18,7 @@
   <entry name="ishield_dam_l_harbinger" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_l_harbinger" />
   <entry name="ishield_dam_xl_archon" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_xl_archon" />
   <entry name="ishield_dam_xl_avatar" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_xl_avatar" />
+  
+  <entry name="ship_dam_m_coercer" value="extensions\deadairamarrships\assets\units\size_m\ship_dam_m_coercer" />
+  <entry name="ishield_dam_m_coercer" value="extensions\deadairamarrships\assets\props\surfaceelements\ishield_dam_m_coercer" />
 </index>

@@ -3,11 +3,11 @@
 	<add sel="//wares">
 		<!-- SHIPS -->
 		<ware id="ship_dam_l_omen" name="{4816391,100}" description="{4816391,200}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="4595057" average="5058890" max="5522724"/>
+			<price min="3892018" average="4578845" max="5265672"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="800"/>
-					<ware ware="hullparts" amount="3650"/>
+					<ware ware="energycells" amount="1733"/>
+					<ware ware="hullparts" amount="4249"/>
 				</primary>
 			</production>
 			<component ref="ship_dam_l_omen_macro" amount="1"/>
@@ -15,11 +15,11 @@
 			<owner faction="damarr"/>
 		</ware>
 		<ware id="ship_dam_l_abaddon" name="{4816391,101}" description="{4816391,201}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="7559033" average="8892980" max="10226927"/>
+			<price min="5698387" average="6703985" max="7709583"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="1387"/>
-					<ware ware="hullparts" amount="6102"/>
+					<ware ware="energycells" amount="2538"/>
+					<ware ware="hullparts" amount="6221"/>
 				</primary>
 			</production>
 			<component ref="ship_dam_l_abaddon_macro" amount="1"/>
@@ -27,11 +27,11 @@
 			<owner faction="damarr"/>
 		</ware>
 		<ware id="ship_dam_l_providence" name="{4816391,102}" description="{4816391,202}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="7559033" average="8892980" max="10226927"/>
+			<price min="3049154" average="3587240" max="4125326"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="5"/>
-					<ware ware="hullparts" amount="5"/>
+					<ware ware="energycells" amount="1264"/>
+					<ware ware="hullparts" amount="3336"/>
 				</primary>
 			</production>
 			<component ref="ship_dam_l_providence_macro" amount="1"/>
@@ -39,11 +39,11 @@
 			<owner faction="damarr"/>
 		</ware>
 		<ware id="ship_dam_l_armageddon" name="{4816391,103}" description="{4816391,203}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="5495057" average="5858890" max="6522724"/>
+			<price min="5179930" average="6094035" max="7008140"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="1000"/>
-					<ware ware="hullparts" amount="4050"/>
+					<ware ware="energycells" amount="2307"/>
+					<ware ware="hullparts" amount="5655"/>
 				</primary>
 			</production>
 			<component ref="ship_dam_l_armageddon_macro" amount="1"/>
@@ -51,11 +51,11 @@
 			<owner faction="damarr"/>
 		</ware>
 		<ware id="ship_dam_l_oracle" name="{4816391,104}" description="{4816391,204}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="5195057" average="5658890" max="6222724"/>
+			<price min="3538410" average="4162835" max="4787260"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="850"/>
-					<ware ware="hullparts" amount="3870"/>
+					<ware ware="energycells" amount="1575"/>
+					<ware ware="hullparts" amount="3863"/>
 				</primary>
 			</production>
 			<component ref="ship_dam_l_oracle_macro" amount="1"/>
@@ -63,11 +63,11 @@
 			<owner faction="damarr"/>
 		</ware>
 		<ware id="ship_dam_l_legion" name="{4816391,105}" description="{4816391,205}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="4595057" average="5058890" max="5522724"/>
+			<price min="4281289" average="5036810" max="5792332"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="800"/>
-					<ware ware="hullparts" amount="3650"/>
+					<ware ware="energycells" amount="1906"/>
+					<ware ware="hullparts" amount="4674"/>
 				</primary>
 			</production>
 			<component ref="ship_dam_l_legion_macro" amount="1"/>
@@ -75,11 +75,11 @@
 			<owner faction="damarr"/>
 		</ware>
 		<ware id="ship_dam_l_harbinger" name="{4816391,108}" description="{4816391,208}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="5195057" average="5658890" max="6222724"/>
+			<price min="4709089" average="5540105" max="6371121"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="850"/>
-					<ware ware="hullparts" amount="3870"/>
+					<ware ware="energycells" amount="2097"/>
+					<ware ware="hullparts" amount="5141"/>
 				</primary>
 			</production>
 			<component ref="ship_dam_l_harbinger_macro" amount="1"/>
@@ -87,11 +87,11 @@
 			<owner faction="damarr"/>
 		</ware>
 		<ware id="ship_dam_xl_archon" name="{4816391,106}" description="{4816391,206}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="16038308" average="18650950" max="21263593"/>
+			<price min="7555863" average="8889250" max="10222638"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="3703"/>
-					<ware ware="hullparts" amount="13035"/>
+					<ware ware="energycells" amount="3350"/>
+					<ware ware="hullparts" amount="8250"/>
 				</primary>
 			</production>
 			<component ref="ship_dam_xl_archon_macro" amount="1"/>
@@ -99,11 +99,11 @@
 			<owner faction="damarr"/>
 		</ware>
 		<ware id="ship_dam_xl_avatar" name="{4816391,107}" description="{4816391,207}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="16038308" average="18650950" max="21263593"/>
+			<price min="9445306" average="11112125" max="12778944"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="3703"/>
-					<ware ware="hullparts" amount="13035"/>
+					<ware ware="energycells" amount="4188"/>
+					<ware ware="hullparts" amount="10313"/>
 				</primary>
 			</production>
 			<component ref="ship_dam_xl_avatar_macro" amount="1"/>
@@ -248,5 +248,34 @@
 			</production>
 			<use threshold="0"/>
 		</ware>
+		<!--
+		<ware id="ship_dam_m_coercer" name="{4816391,109}" description="{4816391,209}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="819115" average="963665" max="1108215" />
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="172" />
+					<ware ware="hullparts" amount="909" />
+				</primary>
+			</production>
+			<component ref="ship_dam_m_coercer_macro" amount="1"/>
+			<restriction licence="militaryship"/>
+			<owner faction="damarr"/>
+		</ware>
+		<ware id="ishield_dam_m_coercer" name="{4816391,309}" description="{4816391,309}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dam_m_coercer_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+		</ware>
+		-->
 	</add>
 </diff>

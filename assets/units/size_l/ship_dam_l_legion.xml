@@ -8,10 +8,10 @@
 					<waypoint name="XU_Waypoint08" tags="typenormal sizeLevel1 dynamicmasstraffic closelink " x="13.495" y="-17.378" z="351.18" qx="-0" qy="-0" qz="-0" qw="-1">
 						<links/>
 					</waypoint>
-					<waypoint name="XU_Waypoint06" tags="typenormal sizeLevel1 dynamicmasstraffic closelink " x="-13.555" y="-17.378" z="351.18" qx="-0" qy="-0" qz="-0" qw="-1">
+					<waypoint name="XU_Waypoint06" tags="typenormal sizeLevel1 dynamicmasstraffic closelink " x="-13.495" y="-17.378" z="351.18" qx="-0" qy="-0" qz="-0" qw="-1">
 						<links/>
 					</waypoint>
-					<waypoint name="XU_Waypoint05" tags="sizeLevel1 typedock start dynamicmasstraffic " x="42.835" y="51.242" z="-100.68" qx="-0" qy="-0" qz="-0" qw="-1">
+					<waypoint name="XU_Waypoint05" tags="sizeLevel1 typedock start dynamicmasstraffic " x="13.495" y="5.707" z="-86.494" qx="-0" qy="-0" qz="-0" qw="-1">
 						<links>
 							<link ref="XU_Waypoint010"/>
 						</links>
@@ -21,7 +21,7 @@
 							<link ref="XU_Waypoint012"/>
 						</links>
 					</waypoint>
-					<waypoint name="XU_Waypoint02" tags="sizeLevel1 typedock end dynamicmasstraffic " x="42.835" y="38.532" z="100.68" qx="-0" qy="-0" qz="-0" qw="-1">
+					<waypoint name="XU_Waypoint02" tags="sizeLevel1 typedock end dynamicmasstraffic " x="-13.495" y="5.707" z="-86.494" qx="-0" qy="-0" qz="-0" qw="-1">
 						<links/>
 					</waypoint>
 					<waypoint name="XU_Waypoint01" tags="typenormal sizeLevel1 dynamicmasstraffic closelink " x="-13.495" y="16.872" z="351.18" qx="-0" qy="-0" qz="-0" qw="-1">
@@ -29,33 +29,33 @@
 							<link ref="XU_Waypoint013"/>
 						</links>
 					</waypoint>
-					<waypoint name="XU_Waypoint009" tags="typenormal sizeLevel1 dynamicmasstraffic " x="42.835" y="38.532" z="125.08" qx="-0" qy="-0" qz="-0" qw="-1">
+					<waypoint name="XU_Waypoint009" tags="typenormal sizeLevel1 dynamicmasstraffic " x="-13.495" y="-52.694" z="125.08" qx="-0" qy="-0" qz="-0" qw="-1">
 						<links>
 							<link ref="XU_Waypoint02"/>
 						</links>
 					</waypoint>
-					<waypoint name="XU_Waypoint010" tags="typenormal sizeLevel1 dynamicmasstraffic " x="42.835" y="51.242" z="125.08" qx="-0" qy="-0" qz="-0" qw="-1">
+					<waypoint name="XU_Waypoint010" tags="typenormal sizeLevel1 dynamicmasstraffic " x="13.495" y="-52.694" z="125.08" qx="-0" qy="-0" qz="-0" qw="-1">
 						<links>
 							<link ref="XU_Waypoint014"/>
 							<link ref="XU_Waypoint011"/>
 						</links>
 					</waypoint>
-					<waypoint name="XU_Waypoint011" tags="typenormal sizeLevel1 dynamicmasstraffic " x="-13.555" y="-17.378" z="220.35" qx="-0" qy="-0" qz="-0" qw="-1">
+					<waypoint name="XU_Waypoint011" tags="typenormal sizeLevel1 dynamicmasstraffic " x="-13.495" y="-52.694" z="220.35" qx="-0" qy="-0" qz="-0" qw="-1">
 						<links>
 							<link ref="XU_Waypoint06"/>
 						</links>
 					</waypoint>
-					<waypoint name="XU_Waypoint012" tags="typenormal sizeLevel1 dynamicmasstraffic " x="13.495" y="16.872" z="220.35" qx="-0" qy="-0" qz="-0" qw="-1">
+					<waypoint name="XU_Waypoint012" tags="typenormal sizeLevel1 dynamicmasstraffic " x="13.495" y="-17.378" z="220.35" qx="-0" qy="-0" qz="-0" qw="-1">
 						<links>
 							<link ref="XU_Waypoint009"/>
 						</links>
 					</waypoint>
-					<waypoint name="XU_Waypoint013" tags="typenormal sizeLevel1 dynamicmasstraffic " x="-13.495" y="16.872" z="220.35" qx="-0" qy="-0" qz="-0" qw="-1">
+					<waypoint name="XU_Waypoint013" tags="typenormal sizeLevel1 dynamicmasstraffic " x="-13.495" y="-17.378" z="220.35" qx="-0" qy="-0" qz="-0" qw="-1">
 						<links>
 							<link ref="XU_Waypoint009"/>
 						</links>
 					</waypoint>
-					<waypoint name="XU_Waypoint014" tags="typenormal sizeLevel1 dynamicmasstraffic " x="13.495" y="-17.378" z="220.35" qx="-0" qy="-0" qz="-0" qw="-1">
+					<waypoint name="XU_Waypoint014" tags="typenormal sizeLevel1 dynamicmasstraffic " x="13.495" y="-52.694" z="220.35" qx="-0" qy="-0" qz="-0" qw="-1">
 						<links>
 							<link ref="XU_Waypoint08"/>
 						</links>
@@ -75,8 +75,8 @@
 				<parts>
 					<part name="part_main" wreck="part_main_wreck">
 						<size>
-							<max x="102.019" y="84.931" z="227.06"/>
-							<center x="0" y="45.6428" z="0.172592"/>
+							<max x="102.121" y="85.016" z="227.288" />
+							<center x="0" y="45.6427" z="0.172592" />
 						</size>
 						<lods>
 							<lod index="0">
